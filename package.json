@@ -92,4 +92,7 @@
   "directories": {
     "test": "test"
   }
+  "scripts": {
+  "test": "jest --coverage"
+}
 }
